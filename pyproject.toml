@@ -23,8 +23,8 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://peppol.eleata.io"
-Repository = "https://github.com/eleata/peppol-python"
-Issues = "https://github.com/eleata/peppol-python/issues"
+Repository = "https://github.com/hernaninverso/peppol-python"
+Issues = "https://github.com/hernaninverso/peppol-python/issues"
 
 [project.optional-dependencies]
 dev = ["pytest>=8", "pytest-asyncio>=0.24", "pytest-httpx>=0.34", "mypy>=1.13"]
